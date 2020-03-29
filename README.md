@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.org/fengari-lua/fengari-web.svg?branch=master)](https://travis-ci.org/fengari-lua/fengari-web)
-[![npm](https://img.shields.io/npm/v/fengari-web.svg)](https://npmjs.com/package/fengari-web)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![#fengari on Freenode](https://img.shields.io/Freenode/%23fengari.png)](https://webchat.freenode.net/?channels=fengari)
+[![Build Status](https://travis-ci.org/LuaStakky/fengari-web.svg?branch=master)](https://travis-ci.org/LuaStakky/fengari-web)
 
 
 # fengari-web
@@ -72,7 +69,7 @@ As well as running `<script type="application/lua">` tags, fengari-web creates a
 ## Building
 
 ```bash
-git clone https://github.com/fengari-lua/fengari-web.git
+git clone git@github.com:LuaStakky/fengari-web.git
 npm install
 ```
 
